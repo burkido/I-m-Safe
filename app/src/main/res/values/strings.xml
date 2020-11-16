@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Güvendeyim</string>
+    <string name="save">KAYDET</string>
+    <string name="i_m_in_safe">I\'m in safe</string>
+    <string name="info">EKLEDİĞİNİZ ADRESLERE \'GÜVENDEYİM\' MESAJI GÖNDERMEK İÇİN RESME TIKLAYINIZ</string>
+    <string name="view">KAYITLARI GÖSTER</string>
+    <string name="add">EKLE</string>
+    <string name="delete">SİL</string>
+    <string name="earthquake">Deprem</string>
+    <string name="fire">Yangın</string>
+    <string name="floods">Sel</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_menu">Ana Menü</string>
+    <string name="earthquake_info">DEPREM SIRASINDA NE YAPMALIYIZ?</string>
+    <string name="earthquake_info1">Sabitlenmemiş dolap, raf, pencere vb. eşyalardan uzak durulmalıdır.
+    Varsa sağlam sandalyelerle desteklenmiş masa altına veya dolgun ve hacimli koltuk, kanepe, içi dolu sandık gibi koruma sağlayabilecek eşya yanına çömelerek hayat üçgeni oluşturulmalıdır.
+    Baş iki el arasına alınarak veya bir koruyucu (yastık, kitap vb) malzeme ile korunmalıdır. Sarsıntı geçene kadar bu pozisyonda beklenmelidir.
+        Güvenli bir yer bulup, diz üstü ÇÖK, Başını ve enseni koruyacak şekilde KAPAN, Düşmemek için sabit bir yere TUTUNUN. Okulda sınıfta ya da büroda ise sağlam sıra, masa altlarında veya yanında; koridorda ise duvarın yanına hayat üçgeni oluşturacak şekilde ÇÖK-KAPAN-TUTUN hareketi ile baş ve boyun korunmalıdır.
+Pencerelerden ve camdan yapılmış eşyalardan uzak durulmalıdır.</string>
+    <string name="afad_info_e">AFAD\'ın sitesi üzerinden daha fazla bilgiye ulaşmak için tıklayınız.</string>
+
+
+    <string name="goto_afad">AFAD\'IN SİTESİNE GİTMEK İÇİN TIKLAYINIZ</string>
+
+
+    <string name="flood_info">Pencere ve kapıları korumak için taşınabilir engeller yerleştirilebilir.
+    Suyla sürüklenen enkazın yönünü kum torbalarıyla değiştirerek konutumuzdan uzak tutabiliriz.
+    Bazı durumlarda bütün kapıları açarak suyun binanın içinden akmasına izin vermek çok daha iyidir; böylece su basıncının yapının taşıyıcı sistemine zarar vermesi önlenebilir.
+    Su yatağı ve çukur bölgeler hemen terk edilmelidir.
+    Sel bölgesini hemen terk ederek yüksek ve güvenli bölgelere gitmeli ancak asla sudan karşıdan karşıya geçmeye çalışılmamalıdır, çünkü su aniden derinleşebilir.
+    Elektrik kaynaklarından uzak durulmalıdır, elektrik çarpabilir!…
+    Özellikle geceleri, selin tehlikelerini görmek güçleşeceğinden daha dikkatli olunmalıdır.
+    Selden ölümlerin çoğu sel sularına girilmesinden kaynaklanmaktadır. Çünkü ayak bileğimize kadar olan sel suyu bizi; dizimize kadar olan sel suları ise otomobillerimizi sürükleyip götürebilir. SELDEN KAÇMAK İÇİN SEL SULARINA KESİNLİKLE GİRMEYİNİZ!…
+    Sel suları ayrıca kanalizasyon ve zehirli kimyasal maddeler de içerirler. Çocukların sel suları ile oynamasına müsaade edilmemelidir.
+    Konutu terk ederken elektrik ve su vanaları kapatılmalıdır.
+    Sel sırasında elektrikleriniz kesilebilir. Binada gaz sızıntısı olduğunu düşünüyorsanız, herhangi bir elektrikli alet ve ışık kullanmayın. Işığa ihtiyacınız olduğunda pilli fener kullanın.
+    Evinizdeki küvet ve bidonları şebeke suyunun kirlenme ihtimaline karşı temiz su ile doldurunuz. SEL SIRASINDA ARAÇ İÇİNDEYSENİZ;
+    Asla su ile kaplı yoldan gitmeye çalışılmamalıdır. Ani sellerin meydana getirdiği ölümlerin yarısı araç içindedir. -Asla sel sularının bulunduğu bölgelerde araç kullanmayınız.-
+    Araçta herhangi bir arıza oluştuysa hemen terk edilerek yüksek bir yere çıkılmalıdır. Yollar akan sular tarafından doldurulacağı için eğer araç 60cm yükseklikteki hareket eden suda kalmışsa su onu kaldırıp sürükleyebilecektir.
+</string>
+    <string name="fire_info">YANGIN SIRASINDA NE YAPMALIYIZ?</string>
+    <string name="fire_info1">"     Telaşa kapılmadan çevrede yangın ihbar düğmesi varsa ona basılmalıdır,     110 nolu telefondan yangın itfaiyeye bildirilmelidir. Yangının adresi en kısa ve doğru şekilde mümkünse yangının cinsi ile birlikte (bina, benzin, ahşap, araç vb)bildirilmelidir.     İtfaiye gelinceye kadar mümkünse yangını söndürmek için eldeki mevcut imkanlardan yararlanılmalıdır.     Yangın kapalı alandaysa yayılmasını önlemek için kapı ve pencereler kapatılmalıdır,     Bunlar yapılırken kendimiz ve başkaları tehlikeye atılmamalıdır,     Eğer alevler çoğalmışsa ve binadan çıkış olanaksızsa, yatak altlarına dolaplara saklanılmamalı, pencereden dışarıdakilerle iletişim kurulmaya çalışılmalıdır,     Dumandan boğulmamak için yardım gelene kadar eğilerek ve sürünerek hareket edilmeli, ağız ve burun ıslak bez ya da mendille kapatılarak nefes alınmalıdır,     Duman ve yanık kokusu başka odadan geliyorsa kapılar açılmamalı, kapıya dokunulmamalıdır.     Kıyafetiniz alev almışsa; koşmadan durup yere yatarak yuvarlanılmalıdır. Battaniye türü örtüler alınarak alevler boğulmaya çalışılmalıdır.     Eğer vücudumuzda yanık varsa, hemen soğuk suya tutulmalıdır. "</string>
+    <string name="todo">TODO</string>
+</resources>
